@@ -1,7 +1,7 @@
 # Insert Game Name HERE
 Jonathan Shoemaker, Jessica Shoemaker, and Emily Shoemaker
 ## How the Game Works
-The game has 8 levels, and on each level, you play as two characters, the MIT beaver and the iQuHACK duck. Initially you can control each character separately with the up/down arrows and the 'w'/'s' keys. The objective is to avoid hitting any of the obstacles with either character. At certain points in the game you can pick up special entanglement items which connect thhe two characters. The two characters, when entangled, can jump higher and duck lower, allowing for a wider range of obstacles to be passed, but their movements are synched. Dying during a level brings you back to the start screen, and the goal is to get to the end of each level.
+The game has (currently) 3 levels, and on each level, you play as two characters, the MIT beaver and the iQuHACK duck. Initially you can control each character separately with the up/down arrows and the 'w'/'s' keys. The objective is to avoid hitting any of the obstacles with either character. At certain points in the game you can pick up special entanglement items which connect thhe two characters. The two characters, when entangled, can jump higher and duck lower, allowing for a wider range of obstacles to be passed, but their movements are synched. Dying during a level brings you back to the start screen, and the goal is to get to the end of each level.
 ## Motivation/Goals
 We created this game with the intent to invent a new spin on the classic horizontal scroller game. The Quantum aspect of our game is unique, and it makes gameplay harder to predict and more complex in nature. Our goals were to make a fun game that utilized various quatum computing techniques and python programming.
 ## What We Did
